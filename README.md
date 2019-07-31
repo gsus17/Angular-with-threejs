@@ -8,6 +8,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Angular v8
 * ThreeJs
 
+# Demo
+* https://gsus17.github.io/Angular-with-threejs/index.html
+
 # Quickstart
 Run `npm install` 
 
